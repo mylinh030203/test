@@ -23,8 +23,8 @@ public class ex3 {
 			average = -999;
 		return average;
 	}
-	public static void main(String[] args) {
-		int value[] = new int[2];
-		System.out.println(average(value,0,1));
-	}
+//	public static void main(String[] args) {
+//		int value[] = new int[2];
+//		System.out.println(average(value,0,1));
+//	}
 }
